@@ -1,6 +1,5 @@
 # Concepts2Metrics
 A data science internship at a market research company, throughout which I collaborated with Igli Kristo on 'Concepts2Metrics,' where we extracted data-driven insights from product concepts.
-# Table of Contents
 # Introduction
 The project relies on a dataset characterized by a restricted data volume, comprising merely 717 rows. Dealing with small datasets can pose challenges, including issues such as overfitting and restricted generalizability. To prepare the data for the project, we did a bit of cleaning.
 ## Dataset
